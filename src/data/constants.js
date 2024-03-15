@@ -3,7 +3,7 @@ export const Bio = {
   roles: ["Front  Developer", "Backend Developer", "Programmer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://www.linkedin.com/in/mohdzaiddev/",
+  github: "https://github.com/MohdZaidRapid",
   resume: "https://app.luminpdf.com/viewer/65a3116aee1c97ed38c66f89",
   linkedin: "https://www.linkedin.com/in/mohdzaiddev/",
   twitter: "https://twitter.com/TechTinkerZaid",
